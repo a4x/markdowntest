@@ -1,5 +1,3 @@
-[TOC]
-
 # **Players**
 ----
 
@@ -437,7 +435,7 @@ Show a player
 }
 ```
 
-# **teams**
+# **Teams**
 ----
 
 **List teams**
